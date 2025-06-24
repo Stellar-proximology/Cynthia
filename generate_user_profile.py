@@ -1,0 +1,1 @@
+# Placeholder for generate_user_profile.py
