@@ -1,0 +1,27 @@
+{
+  "23": {
+    "theme": "Invisibility",
+    "repressive": "Mute",
+    "reactive": "Oversharing"
+  },
+  "18": {
+    "theme": "Perfectionism",
+    "repressive": "Self-Critical",
+    "reactive": "Judgmental"
+  },
+  "44": {
+    "theme": "Distrust",
+    "repressive": "Paranoid",
+    "reactive": "Manipulative"
+  },
+  "21": {
+    "theme": "Control",
+    "repressive": "Passive",
+    "reactive": "Controlling"
+  },
+  "10": {
+    "theme": "Self-Doubt",
+    "repressive": "Invisible",
+    "reactive": "Attention-Seeking"
+  }
+}
